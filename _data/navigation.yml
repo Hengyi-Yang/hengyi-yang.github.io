@@ -1,7 +1,7 @@
 # main links links
 main: 
   - title: "CV"
-    url: /cv/
+    url: https://hengyi-yang.github.io/files/CV_en_2022.pdf
   
   - title: "中文版"
     url: /chinese/
