@@ -1,5 +1,8 @@
 # main links links
 main: 
+  - title: "Research"
+    url: /research/
+  
   - title: "CV"
     url: https://hengyi-yang.github.io/files/CV_en_2022.pdf
   
