@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Hengyi Yang"
 title_separator          : "-"
-name                     : &name "Hengyi Yang"
+name                     : &name "Hengyi Yang | UCM"
 description              : &description "Co-Founder, SPCIS"
 url                      : https://hengyi-yang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
