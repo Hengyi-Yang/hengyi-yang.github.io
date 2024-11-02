@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hengyi YANG, UniMaas"
+title                    : "H.Y., UniMaas"
 title_separator          : "-"
 name                     : &name "Hengyi YANG"
 description              : &description "Co-Founder, SPCIS"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hengyi Yang"
+  name             : "Hengyi YANG"
   avatar           : "Profile.jpg"
   bio              : "PhD researcher, REMIT <br/> Co-Founder, SPCIS"
   location         : "Maastricht, Netherlands"
