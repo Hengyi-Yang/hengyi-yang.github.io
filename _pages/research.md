@@ -9,8 +9,8 @@ author_profile: true
 
 
 ## Journal Articles
-* Hengyi Yang & Catherine Yuk-Ping Lo (2026). Combining Rules and Capacity: Domestic Sources of China’s Dual Approach in Global AI Governance. *Geopolitics*. doi:10.1080/14650045.2026.2703665. [PDF](https://hengyi-yang.github.io/files/Yang_Lo_2026.pdf)
-* Hengyi Yang & Ignacio Arana Araya (2022). The Latinized Dragon: China and Latin America in the Twenty-First Century. *Latin American Research Review*, 57(4), 972-982. doi:10.1017/lar.2022.71. [PDF](https://hengyi-yang.github.io/files/Yang_Arana_2022.pdf)
+* Hengyi Yang & Catherine Yuk-Ping Lo (2026). Combining Rules and Capacity: Domestic Sources of China’s Dual Approach in Global AI Governance. *Geopolitics*. doi:10.1080/14650045.2026.2703665. [PDF](https://hengyi-yang.github.io/files/Yang_Lo_2026.pdf) (SSCI Q1)
+* Hengyi Yang & Ignacio Arana Araya (2022). The Latinized Dragon: China and Latin America in the Twenty-First Century. *Latin American Research Review*, 57(4), 972-982. doi:10.1017/lar.2022.71. [PDF](https://hengyi-yang.github.io/files/Yang_Arana_2022.pdf) (SSCI Q1)
 
 ## Media Articles
 * Catherine Yuk-Ping Lo & Hengyi Yang (January 2026). The Transatlantic Divide over AI is Growing. Will China Profit? *Atlantic Perspective*. [Link](https://www.atlcom.nl/magazine/the-transatlantic-divide-over-ai-is-growing-will-china-profit/)
